@@ -1,7 +1,7 @@
 ﻿{
   "name": "exercise-tracker-mauro",
   "version": "1.0.0",
-  "description": "Exercise Tracker Microservice by MAURO - freeCodeCamp Project",
+  "description": "Exercise Tracker API by MAURO - freeCodeCamp Project",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -17,7 +17,14 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
-  "keywords": ["exercise", "tracker", "api", "freeCodeCamp", "node", "express"],
+  "keywords": [
+    "exercise",
+    "tracker",
+    "api",
+    "freeCodeCamp",
+    "node",
+    "express"
+  ],
   "author": "MAURO",
   "license": "MIT"
 }
